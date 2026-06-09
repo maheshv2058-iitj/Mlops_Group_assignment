@@ -8,3 +8,7 @@ https://www.kaggle.com/code/mahesh2058/mlops-assignment-v1-code
 Hugging face link : 
 
 https://huggingface.co/Mahesh2058/mlops-finance-classifier
+
+wandb link:
+
+https://wandb.ai/maheshv2058-iitj-ac-in/mlops-assignment3
